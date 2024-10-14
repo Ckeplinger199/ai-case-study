@@ -2,6 +2,10 @@
 
 # ai-case-study
 Case Study, Challenge 1
+# Cameron Keplinger 
+# 10/14/2024
+
+
 
 
 #### ExxonMobil
