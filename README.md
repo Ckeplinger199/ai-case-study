@@ -1,4 +1,4 @@
-![Header Image](./ExxonMobil.jpg)
+[Header Image](./ExxonMobil.jpg)
 
 # ai-case-study
 Case Study, Challenge 1
