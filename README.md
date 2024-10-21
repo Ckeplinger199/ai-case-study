@@ -65,4 +65,4 @@ ExxonMobil is leveraging A.I. and machine learning to answer the fundamental que
 - [ExxonMobil Corporate](https://corporate.exxonmobil.com/)
 - [Artificial Intelligence at ExxonMobil](https://emerj.com/ai-executive-guides/artificial-intelligence-at-exxonmobil/#:~:text=Predictive%20maintenance%3A%20ExxonMobil%20expedites%20the,faster%20development%20of%20oil%20wells.)
 - [ExxonMobil and Geothermal Energy](https://www.axios.com/2024/03/19/exxon-mobil-woods-geothermal)
-- A.I. Source: **Gemini by Google**
+- A.I. Source: **Gemini by Google** / **Chat GPT**
