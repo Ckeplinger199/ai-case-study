@@ -39,4 +39,30 @@ As artificial intelligence becomes more prevalent, large corporations like Exxon
 
 ### The Future of A.I. at ExxonMobil
 
-Although ExxonMobil’s A.I. initiatives are promising, their full impact is yet to be realized
+Although ExxonMobil’s A.I. initiatives are promising, their full impact is yet to be realized. CEO Darren Woods has noted that while A.I. is overhyped, it won’t solve every problem—highlighting the importance of human oversight in operations.
+
+> "AI is currently overhyped and won't solve all problems."  
+> — **Darren Woods**, CEO of ExxonMobil
+
+In my opinion, the future of A.I. in oil and gas, particularly at ExxonMobil, looks bright. As the company continues to explore production optimization and predictive maintenance, their operations will likely become more efficient and intelligent, satisfying shareholders and employees alike.
+
+---
+
+### Suggested A.I. Technology for ExxonMobil
+
+If I were to suggest a new A.I. technology for ExxonMobil, it would be a **demand prediction system**. This system could analyze data points such as world events, seasonal trends, and historical patterns to accurately forecast future demand for oil and gas. ExxonMobil could then scale its operations up or down based on these insights, making it more agile in an ever-changing market.
+
+---
+
+### Conclusion
+
+ExxonMobil is leveraging A.I. and machine learning to answer the fundamental question: "How can we provide value to shareholders?" Through innovations such as data collection and automated drilling, the company is on track to increase efficiency and profitability. As A.I. continues to evolve, ExxonMobil—and the oil and gas industry as a whole—will likely adopt even more advanced technologies to stay competitive in the future.
+
+---
+
+### Sources
+
+- [ExxonMobil Corporate](https://corporate.exxonmobil.com/)
+- [Artificial Intelligence at ExxonMobil](https://emerj.com/ai-executive-guides/artificial-intelligence-at-exxonmobil/#:~:text=Predictive%20maintenance%3A%20ExxonMobil%20expedites%20the,faster%20development%20of%20oil%20wells.)
+- [ExxonMobil and Geothermal Energy](https://www.axios.com/2024/03/19/exxon-mobil-woods-geothermal)
+- A.I. Source: **Gemini by Google**
