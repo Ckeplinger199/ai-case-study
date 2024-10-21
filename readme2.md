@@ -1,5 +1,5 @@
 # AI Case Study: Challenge 1
-
+![ExxonMobil Logo](./ExxonMobil.jpg)
 ## Author:  
 **Cameron Keplinger**  
 Date: 10/14/2024
